@@ -1,0 +1,36 @@
+.D5eCV
+  {
+    background-image: url("*/ URL GOES HERE /*") !important;
+    background-size:  cover !important;
+    background-attachment: fixed, scroll !important;
+    background-position: top !important;
+    background-repeat: repeat !important;
+    background-color: #34526f  !important;
+  }
+
+  .PwJi6
+  {
+    background-color: rgb(255, 255, 255, 0.2) !important;
+    opacity: 95%;
+  }
+.hlDot
+{
+  background-color: rgb(255, 255, 255, 0.2) !important;
+  opacity: 100% !important;
+}
+.wttFd {
+  background-color: rgb(255, 255, 255, 0.2) !important;
+}
+.qjTo7 {
+  display: none !important;
+  background: transparent !important;
+}
+.WVvBo.bZTy6{
+  background-color: rgb(255, 255, 255, 0.2) !important;
+}
+.JuP8X {
+  background-color: rgb(255, 255, 255, 0.2) !important;
+}
+.ZaYRY {
+  background-color: transparent !important;
+}
